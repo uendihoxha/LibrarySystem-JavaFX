@@ -21,4 +21,6 @@ The user needs to create an account and then to login in order to use the system
 4. User can return books to the system.
 5. User can check on statistics; how many books are borrowed and how many are returned. 
 
+The maximum number of borrowed books a student can have is 3.
+
 
